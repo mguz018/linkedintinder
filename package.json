@@ -1,4 +1,4 @@
-json{
+{
   "name": "netswipe",
   "version": "1.0.0",
   "description": "Professional networking app with swipe-based matching",
